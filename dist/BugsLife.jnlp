@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="BugsLife.jnlp">
+    <information>
+        <title>BugsLife</title>
+        <vendor>Wen</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="9.0.1+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="BugsLife.jar" size="826080" download="eager"/>
+        <jar href="lib\gson-2.8.6.jar" size="240255" download="eager"/>
+        <jar href="lib\jfoenix-9.0.10.jar" size="2432549" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="bugslife.MainClasses.BugsLife" name="BugsLife"/>
+</jnlp>
+
