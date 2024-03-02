@@ -1,4 +1,4 @@
-# Bugs_Life
+# Bugs_Life (Assignment - Group Project)
 
 This project is a Issue Tracker System.
 
